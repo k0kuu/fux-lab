@@ -1,0 +1,5 @@
+replicaCount: 1
+image:
+  repository: loop-app
+  tag: "1.0"
+message: "hello from loop-app"
